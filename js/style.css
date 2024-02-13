@@ -1,0 +1,9 @@
+body{
+    background: #093028; 
+    background: -webkit-linear-gradient(to right, #237A57, #093028);
+    background: linear-gradient(to right, #237A57, #093028); 
+}
+.centered{
+    text-align: center;
+    vertical-align: middle;
+}
